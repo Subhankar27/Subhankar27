@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhankar Pati</h1> 
-<h3 align="center">I am currently pursuing Computer Science Engineering at SRM Institute of Science and technology, Chennai. I have developed keen interest in Cloud Computing and Networking and spend most of the time enhancing my skills and learning new skillset in this domain. I am familiar with C/C++, Python, HTML and CSS programing languages and like to spend most of my time exploring and improving my Cloud Computing and netwroking skills on various platforms where I can learn.</h3>
+<h3 align="center">I am currently pursuing Computer Science Engineering with Specialisation in IT at SRM Institute of Science and technology, Chennai. I have developed keen interest in Cloud Computing and Networking and spend most of the time enhancing my skills and learning new skillset in this domain. I am familiar with C/C++, Python, HTML and CSS programing languages and like to spend most of my time exploring and improving my Cloud Computing and netwroking skills on various platforms where I can learn.</h3>
 
 - 🌱 I’m currently engaged in **Cloud Computing and Networking courses**
 
